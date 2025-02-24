@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: azure;
+    background-color: lightgreen;
+}
+
+.container {
+  border: 1px solid black; 
+  background-color: aliceblue; 
+}
+.box {
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+}
